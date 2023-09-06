@@ -1,5 +1,0 @@
-langchain==0.0.281
-pandas==2.1.0
-pinecone_client==2.2.2
-plotly==5.16.1
-streamlit==1.26.0
